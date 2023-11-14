@@ -1,0 +1,12 @@
+C:\RODRIGO\PROJETOS\DOTNET\CursoAPIRESTFUL\CursoDotNet\API.Domain\bin\Debug\net5.0\API.Domain.deps.json
+C:\RODRIGO\PROJETOS\DOTNET\CursoAPIRESTFUL\CursoDotNet\API.Domain\bin\Debug\net5.0\API.Domain.dll
+C:\RODRIGO\PROJETOS\DOTNET\CursoAPIRESTFUL\CursoDotNet\API.Domain\bin\Debug\net5.0\ref\API.Domain.dll
+C:\RODRIGO\PROJETOS\DOTNET\CursoAPIRESTFUL\CursoDotNet\API.Domain\bin\Debug\net5.0\API.Domain.pdb
+C:\RODRIGO\PROJETOS\DOTNET\CursoAPIRESTFUL\CursoDotNet\API.Domain\obj\Debug\net5.0\API.Domain.csproj.AssemblyReference.cache
+C:\RODRIGO\PROJETOS\DOTNET\CursoAPIRESTFUL\CursoDotNet\API.Domain\obj\Debug\net5.0\API.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\RODRIGO\PROJETOS\DOTNET\CursoAPIRESTFUL\CursoDotNet\API.Domain\obj\Debug\net5.0\API.Domain.AssemblyInfoInputs.cache
+C:\RODRIGO\PROJETOS\DOTNET\CursoAPIRESTFUL\CursoDotNet\API.Domain\obj\Debug\net5.0\API.Domain.AssemblyInfo.cs
+C:\RODRIGO\PROJETOS\DOTNET\CursoAPIRESTFUL\CursoDotNet\API.Domain\obj\Debug\net5.0\API.Domain.csproj.CoreCompileInputs.cache
+C:\RODRIGO\PROJETOS\DOTNET\CursoAPIRESTFUL\CursoDotNet\API.Domain\obj\Debug\net5.0\API.Domain.dll
+C:\RODRIGO\PROJETOS\DOTNET\CursoAPIRESTFUL\CursoDotNet\API.Domain\obj\Debug\net5.0\ref\API.Domain.dll
+C:\RODRIGO\PROJETOS\DOTNET\CursoAPIRESTFUL\CursoDotNet\API.Domain\obj\Debug\net5.0\API.Domain.pdb
