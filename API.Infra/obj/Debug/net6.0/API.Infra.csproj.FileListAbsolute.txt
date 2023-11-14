@@ -1,0 +1,12 @@
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.Infra/bin/Debug/net6.0/API.Infra.deps.json
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.Infra/bin/Debug/net6.0/API.Infra.dll
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.Infra/bin/Debug/net6.0/API.Infra.pdb
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.Infra/obj/Debug/net6.0/API.Infra.csproj.AssemblyReference.cache
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.Infra/obj/Debug/net6.0/API.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.Infra/obj/Debug/net6.0/API.Infra.AssemblyInfoInputs.cache
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.Infra/obj/Debug/net6.0/API.Infra.AssemblyInfo.cs
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.Infra/obj/Debug/net6.0/API.Infra.csproj.CoreCompileInputs.cache
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.Infra/obj/Debug/net6.0/API.Infra.dll
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.Infra/obj/Debug/net6.0/refint/API.Infra.dll
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.Infra/obj/Debug/net6.0/API.Infra.pdb
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.Infra/obj/Debug/net6.0/ref/API.Infra.dll

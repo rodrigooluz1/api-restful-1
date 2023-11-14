@@ -1,0 +1,17 @@
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.DAL/bin/Debug/net6.0/API.DAL.deps.json
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.DAL/bin/Debug/net6.0/API.DAL.dll
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.DAL/bin/Debug/net6.0/API.DAL.pdb
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.DAL/bin/Debug/net6.0/API.Domain.dll
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.DAL/bin/Debug/net6.0/API.Infra.dll
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.DAL/bin/Debug/net6.0/API.Domain.pdb
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.DAL/bin/Debug/net6.0/API.Infra.pdb
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.DAL/obj/Debug/net6.0/API.DAL.csproj.AssemblyReference.cache
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.DAL/obj/Debug/net6.0/API.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.DAL/obj/Debug/net6.0/API.DAL.AssemblyInfoInputs.cache
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.DAL/obj/Debug/net6.0/API.DAL.AssemblyInfo.cs
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.DAL/obj/Debug/net6.0/API.DAL.csproj.CoreCompileInputs.cache
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.DAL/obj/Debug/net6.0/API.DAL.csproj.CopyComplete
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.DAL/obj/Debug/net6.0/API.DAL.dll
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.DAL/obj/Debug/net6.0/refint/API.DAL.dll
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.DAL/obj/Debug/net6.0/API.DAL.pdb
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.DAL/obj/Debug/net6.0/ref/API.DAL.dll
