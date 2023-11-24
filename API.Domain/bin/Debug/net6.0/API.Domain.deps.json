@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "API.Domain/1.0.0": {
         "dependencies": {
+          "API.Infra": "1.0.0",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
           "MongoDB.Bson": "2.22.0"
         },
@@ -83,7 +84,12 @@
         }
       },
       "System.Memory/4.5.5": {},
-      "System.Runtime.CompilerServices.Unsafe/6.0.0": {}
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
+      "API.Infra/1.0.0": {
+        "runtime": {
+          "API.Infra.dll": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -154,6 +160,11 @@
       "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
       "path": "system.runtime.compilerservices.unsafe/6.0.0",
       "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    },
+    "API.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

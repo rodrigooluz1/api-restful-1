@@ -10,3 +10,6 @@
 /Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.Domain/obj/Debug/net6.0/refint/API.Domain.dll
 /Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.Domain/obj/Debug/net6.0/API.Domain.pdb
 /Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.Domain/obj/Debug/net6.0/ref/API.Domain.dll
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.Domain/bin/Debug/net6.0/API.Infra.dll
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.Domain/bin/Debug/net6.0/API.Infra.pdb
+/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.Domain/obj/Debug/net6.0/API.Domain.csproj.CopyComplete

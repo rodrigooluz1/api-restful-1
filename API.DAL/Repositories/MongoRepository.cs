@@ -12,7 +12,7 @@ namespace API.DAL.Repositories
 
         public MongoRepository(IDatabaseSettings settings)
         {
-            var client = new MongoClient(settings.connetionString);
+            var client = new MongoClient(settings.ConnectionString);
             var database = client.GetDatabase(settings.DatabaseName);
 
             _model = database.GetCollection<T>(typeof(T).Name.ToLower());
@@ -26,14 +26,37 @@ namespace API.DAL.Repositories
             return news;
         }
 
-        public List<T> Get() => _model.Find(active => true).ToList();
+        //public List<T> Get() => _model.Find(news => news.Deleted != true).ToList();
+        public Result<T> Get(int page, int qtd)
+        {
+            var result = new Result<T>();
+            result.Page = page;
+            result.Qtd = qtd;
+            var filter = Builders<T>.Filter.Eq(entity => entity.Deleted, false);
 
-        public T Get(string id) => _model.Find<T>(news => news.ID == id).FirstOrDefault();
+            result.Data = _model.Find(filter)
+                    .SortByDescending(entity => entity.PublishDate)
+                    .Skip((page - 1) * qtd).Limit(qtd).ToList();
 
-        public void Remove(string id) => _model.DeleteOne(news => news.ID == id);
+            result.Total = _model.CountDocuments(filter);
+            result.TotalPages = result.Total / qtd;
+
+            return result;
+        }
+
+        public T Get(string id) => _model.Find<T>(news => news.ID == id && news.Deleted != true).FirstOrDefault();
+
+        public T GetBySlug(string slug) => _model.Find<T>(news => news.Slug == slug && news.Deleted != true).FirstOrDefault();
 
         public void Update(string id, T news) => _model.ReplaceOne(news => news.ID == id, news);
 
+        public void Remove(string id)
+        {
+            var news = Get(id);
+            news.Deleted = true;
+            _model.ReplaceOne(news => news.ID == id, news);
+            //model.DeleteOne(news => news.ID == id);
+        }
     }
 }
 

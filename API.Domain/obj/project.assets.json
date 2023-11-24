@@ -133,6 +133,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "API.Infra/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/API.Infra.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/API.Infra.dll": {}
+        }
       }
     }
   },
@@ -372,10 +382,16 @@
         "system.runtime.compilerservices.unsafe.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "API.Infra/1.0.0": {
+      "type": "project",
+      "path": "../API.Infra/API.Infra.csproj",
+      "msbuildProject": "../API.Infra/API.Infra.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "API.Infra >= 1.0.0",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
       "MongoDB.Bson >= 2.22.0"
     ]
@@ -404,7 +420,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.Infra/API.Infra.csproj": {
+              "projectPath": "/Users/katiafrancabricloud.com/Documents/RODRIGO/PROJETOS_DEV/GIT_BRANCHES/api-restful-1/API.Infra/API.Infra.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -442,7 +462,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
       }
     }
   }

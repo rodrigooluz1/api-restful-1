@@ -14,6 +14,14 @@ namespace API.Domain.Mappers
         public EntityToViewModelMapping()
         {
             CreateMap<News, NewsViewModel>();
+            CreateMap<Video, VideoViewModel>().ReverseMap();
+            CreateMap<Gallery, GalleryViewModel>().ReverseMap();
+
+
+            CreateMap<Result<News>, Result<NewsViewModel>>().ReverseMap();
+            CreateMap<Result<Video>, Result<VideoViewModel>>().ReverseMap();
+            CreateMap<Result<Gallery>, Result<GalleryViewModel>>().ReverseMap();
+
         }
     }
 }

@@ -1,12 +1,16 @@
-﻿namespace API.DAL.IRepositories
+﻿using API.Domain.Entities;
+
+namespace API.DAL.IRepositories
 {
 	public interface IMongoRepository<T>
 	{
-		List<T> Get();
+		Result<T> Get(int page, int qtd);
 
 		T Get(string id);
 
-		T Create(T news);
+		T GetBySlug(string slug);
+
+        T Create(T news);
 
 		void Update(string id, T news);
 

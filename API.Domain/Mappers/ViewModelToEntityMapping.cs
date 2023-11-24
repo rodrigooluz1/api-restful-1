@@ -14,6 +14,8 @@ namespace API.Domain.Mappers
         public ViewModelToEntityMapping()
         {
             CreateMap<NewsViewModel, News>();
+            //CreateMap<VideoViewModel, Video>(); como usei reverseMap no outro arquivo, já não precisa dessa conversaão
+
         }
     }
 }
