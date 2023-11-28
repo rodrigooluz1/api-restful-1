@@ -1,0 +1,19 @@
+# Arquivos temporários
+obj/
+bin/
+API.Services/bin/
+API.Services/obj/
+API.Tests/bin/
+API.Tests/obj/
+API/bin/
+API/obj/
+
+# Arquivos de compilação
+*.exe
+*.pdb
+
+# Arquivos de configuração do Visual Studio
+.vscode/
+*.user
+*.suo
+*.sln.docstates
