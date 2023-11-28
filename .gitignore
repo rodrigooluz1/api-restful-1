@@ -17,3 +17,6 @@ API/obj/
 *.user
 *.suo
 *.sln.docstates
+
+.DS_Store
+.vs/
